@@ -10,7 +10,7 @@ We are able to determine information such as:
 
 ✅Turnover rate
 
-✅The number of remote employees against those not working remotely
+✅The number of remote employees against office employees
 
 _________________________________________________________________________________________________________________
 
